@@ -1,0 +1,2 @@
+# for example:
+docker run -v /usr/local/nix-store:/nix -it -p 2222:22 cd8ef3680e2d
